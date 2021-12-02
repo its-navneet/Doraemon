@@ -1,2 +1,2 @@
-# The_Doracake
+# The_Doraemon
 This a game made using libGDX on android studio.
