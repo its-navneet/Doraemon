@@ -1,3 +1,5 @@
 # The_Doraemon
-This a game made using libGDX on android studio.
+This an android game made using libGDX framework based on Java.
+
+
 ![Screen Recording](https://github.com/its-navneet/Doraemon/blob/master/Doraemon.gif)
